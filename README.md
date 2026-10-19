@@ -206,6 +206,6 @@ VITE_API_BASE_URL=http://localhost:5000/api
 
 ## 👨‍💻 Author
 
-Omkar More
+Harsh Makwana
 
 Final Year CSE Student | MERN Developer | Aspiring Cloud Engineer
